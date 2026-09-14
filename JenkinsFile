@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                    url: 'git@github.com:atique5md/Java-application-deploy-jenkins.git',
+                    url: 'git@github.com:Aryann-Ji/Java-application-deploy-jenkins.git',
                     credentialsId: 'github-ssh'
             }
         }
