@@ -572,4 +572,4 @@ volumes:
 
 ```
 If you want to auto-trigger then do changes on this file--- and follow the JenkinsFile and go some more work to trigger jenkins pipeline
-https://github.com/atique5md/Java-application-deploy-jenkins.git
+https://github.com/Aryann-Ji/Java-application-deploy-jenkins.git
